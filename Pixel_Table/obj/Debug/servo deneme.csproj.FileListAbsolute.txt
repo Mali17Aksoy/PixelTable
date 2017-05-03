@@ -1,0 +1,18 @@
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\bin\Debug\servo deneme.exe.config
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\bin\Debug\servo deneme.exe
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\bin\Debug\servo deneme.pdb
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo deneme.csprojResolveAssemblyReference.cache
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo_deneme.Form1.resources
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo_deneme.Properties.Resources.resources
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo deneme.csproj.GenerateResource.Cache
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo deneme.exe
+C:\Users\Mert Unsal\Desktop\servo deneme\servo deneme\obj\Debug\servo deneme.pdb
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\bin\Debug\servo deneme.exe.config
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\bin\Debug\servo deneme.exe
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\bin\Debug\servo deneme.pdb
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo deneme.csprojResolveAssemblyReference.cache
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo_deneme.Form1.resources
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo_deneme.Properties.Resources.resources
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo deneme.csproj.GenerateResource.Cache
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo deneme.exe
+C:\Users\Mert Unsal\Desktop\Pixel_Table\Pixel_Table\obj\Debug\servo deneme.pdb
